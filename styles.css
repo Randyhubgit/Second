@@ -209,7 +209,11 @@ position: relative;
   right: 100px;
   top:  100px;
 }
-
+.randycirc{
+  position: center;
+  right: 100px;
+  top:  100px;
+}
 
 .skill-img{
    width: 25%;
