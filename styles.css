@@ -205,6 +205,13 @@ text-align: center;
   top: 600px;
 }
 
+.code2{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+
 .email{
   position: absolute;
   right: 100px;
