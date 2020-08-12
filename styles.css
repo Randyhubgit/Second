@@ -15,7 +15,7 @@ h1{
   margin-top: 10px ;
   margin-bottom: 20px ;
 	font-family: 'Sacramento', cursive;
-
+text-align: center;
 }
 
 h2{
@@ -24,6 +24,8 @@ h2{
   margin-top: 0px ;
   margin-bottom: 0px ;
 	font-family: 'Sacramento', cursive;
+	
+text-align: center;
 }
 
 h3{
@@ -60,7 +62,7 @@ a{
   padding-top: 20px;
 	padding-bottom: 20px;
    border-bottom: solid #00002c 6px;
-;
+
 	
        
 	
