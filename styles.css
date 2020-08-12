@@ -124,7 +124,7 @@ position: relative;
  
 	padding: 50px 0 20px ;
 	  border-bottom: solid #00002c 6px;
-
+text-align: center;
 }
 
 .contact-me{
@@ -134,6 +134,7 @@ position: relative;
  
 	padding: 50px 0 20px ;
 	border-bottom: solid #00002c 6px;
+	text-align: center;
 }
 
 
